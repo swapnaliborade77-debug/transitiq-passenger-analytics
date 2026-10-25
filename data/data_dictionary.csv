@@ -1,0 +1,7 @@
+column,data_type,description
+route,string,Synthetic demonstration route identifier
+stop,string,Synthetic demonstration stop name
+date,date,Synthetic sample service date
+hour,integer,Hour of day from 0 to 23
+passengers,integer,Synthetic passenger count for demonstration only
+vehicle_capacity,integer,Illustrative vehicle capacity; not matched trip-level occupancy data
